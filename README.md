@@ -1,3 +1,7 @@
+### 📊 Data Schema
+Below is an example of the structured data extracted by the pipeline, including technical specs, geographical coordinates, and incident summaries.
+<img width="1546" height="1044" alt="image" src="https://github.com/user-attachments/assets/a43c9b94-b533-4401-b892-2069265f475b" />
+
 # ✈️ Aviation Incident Intelligence Pipeline
 
 A robust, multi-stage data engineering project designed to scrape, structure, and enrich a massive dataset of global aviation incidents (20,000+ records). This tool bridges the gap between raw historical archives and structured JSON data for further analytics.
